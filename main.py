@@ -3,8 +3,8 @@ import math
 
 scales = {
     "Major": [0, 2, 4, 5, 7, 9, 11, 12],
-    "Melodic Minor": [0, 2, 3, 5, 7, 8, 11, 12],
-    "Harmonic Minor": [0, 2, 3, 5, 7, 9, 11, 12],
+    "Harmonic Minor": [0, 2, 3, 5, 7, 8, 11, 12],
+    "Melodic Minor": [0, 2, 3, 5, 7, 9, 11, 12],
 }
 
 majModes = {
