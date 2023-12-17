@@ -1,6 +1,6 @@
 ### Summary
 
-This is some code I wrote to help find good cluster scales, that is, scales where multiple consecutive notes can ring out at once on a standard guitar. Since harmonics and open strings make this easier, I wanted to see how many notes could be played as an open/harmonic in every scale. Here, we compute that number for every mode of the major, harmonic minor, and melodic minor scales. We do this for every root note from E2 up to A4.
+This is some code I wrote to help find good cluster scales, that is, scales where multiple consecutive notes can ring out at once on a standard guitar. Since harmonics and open strings make this easier, I wanted to see how many notes could be played as an open/harmonic in every scale. Here, we compute that number for every mode of the major, harmonic minor, and melodic minor scales. We do this for every root note from E2 up to A4. This only takes the first three harmonics above the fundamental into account. It also doesn't consider artificial harmonics.
 
 ### Instructions
 
