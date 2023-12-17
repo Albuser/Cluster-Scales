@@ -41,7 +41,7 @@ def addOrdinal(num):
 
 def analyzeFromRoot(guitar, root, numOctaves=1, fname="singleOctave.txt"):
     numRoot = math.floor(root / 12) + 2
-    rootStr = classes.pitchClasses[root % 12] + str(numRoot) + ", "
+    rootStr = (classes.pitchClasses[root % 12] + str(numRoot) + ",").ljust(5, " ")
     for scaleName, scale in scales.items():
         modes = getModes(scale)
         for mode in modes:
@@ -65,7 +65,7 @@ def analyzeFromRoot(guitar, root, numOctaves=1, fname="singleOctave.txt"):
                         break
             with open(fname, "a") as f:
                 if scaleName == "Major":
-                    modeStr = (majModes[mode[0]] + " ").ljust(30, "-")
+                    modeStr = (majModes[mode[0]] + " ").ljust(26, "-")
                 else:
                     modeStr = " (" + addOrdinal(mode[0]) + "Mode) "
                     modeStr = scaleName.ljust(14, " ") + modeStr
