@@ -51,7 +51,7 @@ def analyzeFromRoot(guitar, root, numOctaves=1, fname="singleOctave.txt"):
             with open(fname, "a") as f:
                 modeStr = addOrdinal(mode[0])
                 scaleStr = rootStr
-                rootName = (classes.pitchClasses[root % 12] + ",").ljust(3, " ")
+                rootName = (classes.pitchClasses[root % 12] + ",").ljust(4, " ")
                 scaleStr += rootName + scaleName.ljust(14, " ")
                 scaleStr += " (" + modeStr + "Mode) "
                 scaleStr += "--- {} harmonics/open strings".format(numHarmOrOpen) + "\n"
