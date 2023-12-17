@@ -12,7 +12,7 @@ You can run the code in a terminal window with the command `python main.py`, whi
 
 - **twoOctaves.txt**: Same as above, but the scale is two octaves instead of one.
 
-To break down a single row of the output, here's an example:
+Here's an example of a line from the above files:
 
 `1st E,  Lydian     ------------------ 2  harmonics/open strings: ['E 0  (open)', 'E 12 (harm)']`
 
