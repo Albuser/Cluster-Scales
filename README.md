@@ -14,6 +14,6 @@ You can run the code in a terminal window with the command `python main.py`, whi
 
 Here's an example of a line from the above files:
 
-`1st E,  Lydian     ------------------ 2  harmonics/open strings: ['E 0  (open)', 'E 12 (harm)']`
+`E2, Lydian     ---------------------- 2  harmonics/open strings: ['E 0  (open)', 'E 12 (harm)']`
 
-This row represents the E Lydian scale starting from the 1st E on a standard-tuned guitar (the open sixth string). This tells us that 2 of the notes of that one-octave scale could be played with open strings or harmonics, namely the open E string itself and the 12th fret-harmonic on the E string. Here, the low E-string is denoted "E", and the high E-string is denoted "e".
+This row represents the E Lydian scale starting from E2, the open sixth string on a standard-tuned guitar. This tells us that 2 of the notes of that one-octave scale could be played with open strings or harmonics, namely the open E string itself and the 12th fret-harmonic on the E string. The low E-string is denoted "E", and the high E-string is denoted "e".
