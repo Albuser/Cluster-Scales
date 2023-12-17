@@ -1,631 +1,631 @@
 Single Octave Scales:
-1st E,  Major          (1st Mode) --- 2 harmonics/open strings
-1st E,  Major          (2nd Mode) --- 3 harmonics/open strings
-1st E,  Major          (3rd Mode) --- 3 harmonics/open strings
-1st E,  Major          (4th Mode) --- 1 harmonics/open strings
-1st E,  Major          (5th Mode) --- 3 harmonics/open strings
-1st E,  Major          (6th Mode) --- 3 harmonics/open strings
-1st E,  Major          (7th Mode) --- 3 harmonics/open strings
-1st E,  Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-1st E,  Melodic Minor  (2nd Mode) --- 3 harmonics/open strings
-1st E,  Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-1st E,  Melodic Minor  (4th Mode) --- 2 harmonics/open strings
-1st E,  Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-1st E,  Melodic Minor  (6th Mode) --- 1 harmonics/open strings
-1st E,  Melodic Minor  (7th Mode) --- 1 harmonics/open strings
-1st E,  Harmonic Minor (1st Mode) --- 2 harmonics/open strings
-1st E,  Harmonic Minor (2nd Mode) --- 3 harmonics/open strings
-1st E,  Harmonic Minor (3rd Mode) --- 1 harmonics/open strings
-1st E,  Harmonic Minor (4th Mode) --- 2 harmonics/open strings
-1st E,  Harmonic Minor (5th Mode) --- 3 harmonics/open strings
-1st E,  Harmonic Minor (6th Mode) --- 3 harmonics/open strings
-1st E,  Harmonic Minor (7th Mode) --- 2 harmonics/open strings
-1st F,  Major          (1st Mode) --- 3 harmonics/open strings
-1st F,  Major          (2nd Mode) --- 1 harmonics/open strings
-1st F,  Major          (3rd Mode) --- 0 harmonics/open strings
-1st F,  Major          (4th Mode) --- 3 harmonics/open strings
-1st F,  Major          (5th Mode) --- 2 harmonics/open strings
-1st F,  Major          (6th Mode) --- 0 harmonics/open strings
-1st F,  Major          (7th Mode) --- 0 harmonics/open strings
-1st F,  Melodic Minor  (1st Mode) --- 1 harmonics/open strings
-1st F,  Melodic Minor  (2nd Mode) --- 1 harmonics/open strings
-1st F,  Melodic Minor  (3rd Mode) --- 3 harmonics/open strings
-1st F,  Melodic Minor  (4th Mode) --- 1 harmonics/open strings
-1st F,  Melodic Minor  (5th Mode) --- 1 harmonics/open strings
-1st F,  Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-1st F,  Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-1st F,  Harmonic Minor (1st Mode) --- 2 harmonics/open strings
-1st F,  Harmonic Minor (2nd Mode) --- 1 harmonics/open strings
-1st F,  Harmonic Minor (3rd Mode) --- 3 harmonics/open strings
-1st F,  Harmonic Minor (4th Mode) --- 2 harmonics/open strings
-1st F,  Harmonic Minor (5th Mode) --- 1 harmonics/open strings
-1st F,  Harmonic Minor (6th Mode) --- 0 harmonics/open strings
-1st F,  Harmonic Minor (7th Mode) --- 1 harmonics/open strings
-1st F#, Major          (1st Mode) --- 0 harmonics/open strings
-1st F#, Major          (2nd Mode) --- 2 harmonics/open strings
-1st F#, Major          (3rd Mode) --- 3 harmonics/open strings
-1st F#, Major          (4th Mode) --- 0 harmonics/open strings
-1st F#, Major          (5th Mode) --- 1 harmonics/open strings
-1st F#, Major          (6th Mode) --- 3 harmonics/open strings
-1st F#, Major          (7th Mode) --- 3 harmonics/open strings
-1st F#, Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-1st F#, Melodic Minor  (2nd Mode) --- 2 harmonics/open strings
-1st F#, Melodic Minor  (3rd Mode) --- 1 harmonics/open strings
-1st F#, Melodic Minor  (4th Mode) --- 2 harmonics/open strings
-1st F#, Melodic Minor  (5th Mode) --- 2 harmonics/open strings
-1st F#, Melodic Minor  (6th Mode) --- 1 harmonics/open strings
-1st F#, Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-1st F#, Harmonic Minor (1st Mode) --- 1 harmonics/open strings
-1st F#, Harmonic Minor (2nd Mode) --- 2 harmonics/open strings
-1st F#, Harmonic Minor (3rd Mode) --- 1 harmonics/open strings
-1st F#, Harmonic Minor (4th Mode) --- 1 harmonics/open strings
-1st F#, Harmonic Minor (5th Mode) --- 2 harmonics/open strings
-1st F#, Harmonic Minor (6th Mode) --- 3 harmonics/open strings
-1st F#, Harmonic Minor (7th Mode) --- 3 harmonics/open strings
-1st G,  Major          (1st Mode) --- 3 harmonics/open strings
-1st G,  Major          (2nd Mode) --- 3 harmonics/open strings
-1st G,  Major          (3rd Mode) --- 1 harmonics/open strings
-1st G,  Major          (4th Mode) --- 3 harmonics/open strings
-1st G,  Major          (5th Mode) --- 3 harmonics/open strings
-1st G,  Major          (6th Mode) --- 2 harmonics/open strings
-1st G,  Major          (7th Mode) --- 0 harmonics/open strings
-1st G,  Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-1st G,  Melodic Minor  (2nd Mode) --- 1 harmonics/open strings
-1st G,  Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-1st G,  Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-1st G,  Melodic Minor  (5th Mode) --- 1 harmonics/open strings
-1st G,  Melodic Minor  (6th Mode) --- 2 harmonics/open strings
-1st G,  Melodic Minor  (7th Mode) --- 1 harmonics/open strings
-1st G,  Harmonic Minor (1st Mode) --- 3 harmonics/open strings
-1st G,  Harmonic Minor (2nd Mode) --- 2 harmonics/open strings
-1st G,  Harmonic Minor (3rd Mode) --- 2 harmonics/open strings
-1st G,  Harmonic Minor (4th Mode) --- 3 harmonics/open strings
-1st G,  Harmonic Minor (5th Mode) --- 2 harmonics/open strings
-1st G,  Harmonic Minor (6th Mode) --- 1 harmonics/open strings
-1st G,  Harmonic Minor (7th Mode) --- 0 harmonics/open strings
-1st G#, Major          (1st Mode) --- 1 harmonics/open strings
-1st G#, Major          (2nd Mode) --- 0 harmonics/open strings
-1st G#, Major          (3rd Mode) --- 2 harmonics/open strings
-1st G#, Major          (4th Mode) --- 2 harmonics/open strings
-1st G#, Major          (5th Mode) --- 0 harmonics/open strings
-1st G#, Major          (6th Mode) --- 1 harmonics/open strings
-1st G#, Major          (7th Mode) --- 3 harmonics/open strings
-1st G#, Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-1st G#, Melodic Minor  (2nd Mode) --- 2 harmonics/open strings
-1st G#, Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-1st G#, Melodic Minor  (4th Mode) --- 1 harmonics/open strings
-1st G#, Melodic Minor  (5th Mode) --- 2 harmonics/open strings
-1st G#, Melodic Minor  (6th Mode) --- 2 harmonics/open strings
-1st G#, Melodic Minor  (7th Mode) --- 3 harmonics/open strings
-1st G#, Harmonic Minor (1st Mode) --- 1 harmonics/open strings
-1st G#, Harmonic Minor (2nd Mode) --- 1 harmonics/open strings
-1st G#, Harmonic Minor (3rd Mode) --- 3 harmonics/open strings
-1st G#, Harmonic Minor (4th Mode) --- 1 harmonics/open strings
-1st G#, Harmonic Minor (5th Mode) --- 1 harmonics/open strings
-1st G#, Harmonic Minor (6th Mode) --- 2 harmonics/open strings
-1st G#, Harmonic Minor (7th Mode) --- 3 harmonics/open strings
-1st A,  Major          (1st Mode) --- 3 harmonics/open strings
-1st A,  Major          (2nd Mode) --- 4 harmonics/open strings
-1st A,  Major          (3rd Mode) --- 4 harmonics/open strings
-1st A,  Major          (4th Mode) --- 2 harmonics/open strings
-1st A,  Major          (5th Mode) --- 4 harmonics/open strings
-1st A,  Major          (6th Mode) --- 4 harmonics/open strings
-1st A,  Major          (7th Mode) --- 3 harmonics/open strings
-1st A,  Melodic Minor  (1st Mode) --- 3 harmonics/open strings
-1st A,  Melodic Minor  (2nd Mode) --- 3 harmonics/open strings
-1st A,  Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-1st A,  Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-1st A,  Melodic Minor  (5th Mode) --- 4 harmonics/open strings
-1st A,  Melodic Minor  (6th Mode) --- 2 harmonics/open strings
-1st A,  Melodic Minor  (7th Mode) --- 1 harmonics/open strings
-1st A,  Harmonic Minor (1st Mode) --- 3 harmonics/open strings
-1st A,  Harmonic Minor (2nd Mode) --- 4 harmonics/open strings
-1st A,  Harmonic Minor (3rd Mode) --- 1 harmonics/open strings
-1st A,  Harmonic Minor (4th Mode) --- 3 harmonics/open strings
-1st A,  Harmonic Minor (5th Mode) --- 4 harmonics/open strings
-1st A,  Harmonic Minor (6th Mode) --- 3 harmonics/open strings
-1st A,  Harmonic Minor (7th Mode) --- 2 harmonics/open strings
-1st A#, Major          (1st Mode) --- 3 harmonics/open strings
-1st A#, Major          (2nd Mode) --- 1 harmonics/open strings
-1st A#, Major          (3rd Mode) --- 0 harmonics/open strings
-1st A#, Major          (4th Mode) --- 4 harmonics/open strings
-1st A#, Major          (5th Mode) --- 2 harmonics/open strings
-1st A#, Major          (6th Mode) --- 0 harmonics/open strings
-1st A#, Major          (7th Mode) --- 1 harmonics/open strings
-1st A#, Melodic Minor  (1st Mode) --- 1 harmonics/open strings
-1st A#, Melodic Minor  (2nd Mode) --- 2 harmonics/open strings
-1st A#, Melodic Minor  (3rd Mode) --- 3 harmonics/open strings
-1st A#, Melodic Minor  (4th Mode) --- 2 harmonics/open strings
-1st A#, Melodic Minor  (5th Mode) --- 1 harmonics/open strings
-1st A#, Melodic Minor  (6th Mode) --- 4 harmonics/open strings
-1st A#, Melodic Minor  (7th Mode) --- 3 harmonics/open strings
-1st A#, Harmonic Minor (1st Mode) --- 2 harmonics/open strings
-1st A#, Harmonic Minor (2nd Mode) --- 1 harmonics/open strings
-1st A#, Harmonic Minor (3rd Mode) --- 4 harmonics/open strings
-1st A#, Harmonic Minor (4th Mode) --- 3 harmonics/open strings
-1st A#, Harmonic Minor (5th Mode) --- 1 harmonics/open strings
-1st A#, Harmonic Minor (6th Mode) --- 1 harmonics/open strings
-1st A#, Harmonic Minor (7th Mode) --- 2 harmonics/open strings
-1st B,  Major          (1st Mode) --- 1 harmonics/open strings
-1st B,  Major          (2nd Mode) --- 3 harmonics/open strings
-1st B,  Major          (3rd Mode) --- 4 harmonics/open strings
-1st B,  Major          (4th Mode) --- 0 harmonics/open strings
-1st B,  Major          (5th Mode) --- 2 harmonics/open strings
-1st B,  Major          (6th Mode) --- 4 harmonics/open strings
-1st B,  Major          (7th Mode) --- 4 harmonics/open strings
-1st B,  Melodic Minor  (1st Mode) --- 3 harmonics/open strings
-1st B,  Melodic Minor  (2nd Mode) --- 3 harmonics/open strings
-1st B,  Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-1st B,  Melodic Minor  (4th Mode) --- 2 harmonics/open strings
-1st B,  Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-1st B,  Melodic Minor  (6th Mode) --- 1 harmonics/open strings
-1st B,  Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-1st B,  Harmonic Minor (1st Mode) --- 2 harmonics/open strings
-1st B,  Harmonic Minor (2nd Mode) --- 3 harmonics/open strings
-1st B,  Harmonic Minor (3rd Mode) --- 1 harmonics/open strings
-1st B,  Harmonic Minor (4th Mode) --- 1 harmonics/open strings
-1st B,  Harmonic Minor (5th Mode) --- 3 harmonics/open strings
-1st B,  Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-1st B,  Harmonic Minor (7th Mode) --- 3 harmonics/open strings
-1st C,  Major          (1st Mode) --- 5 harmonics/open strings
-1st C,  Major          (2nd Mode) --- 3 harmonics/open strings
-1st C,  Major          (3rd Mode) --- 1 harmonics/open strings
-1st C,  Major          (4th Mode) --- 5 harmonics/open strings
-1st C,  Major          (5th Mode) --- 4 harmonics/open strings
-1st C,  Major          (6th Mode) --- 2 harmonics/open strings
-1st C,  Major          (7th Mode) --- 0 harmonics/open strings
-1st C,  Melodic Minor  (1st Mode) --- 3 harmonics/open strings
-1st C,  Melodic Minor  (2nd Mode) --- 1 harmonics/open strings
-1st C,  Melodic Minor  (3rd Mode) --- 4 harmonics/open strings
-1st C,  Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-1st C,  Melodic Minor  (5th Mode) --- 2 harmonics/open strings
-1st C,  Melodic Minor  (6th Mode) --- 4 harmonics/open strings
-1st C,  Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-1st C,  Harmonic Minor (1st Mode) --- 4 harmonics/open strings
-1st C,  Harmonic Minor (2nd Mode) --- 2 harmonics/open strings
-1st C,  Harmonic Minor (3rd Mode) --- 4 harmonics/open strings
-1st C,  Harmonic Minor (4th Mode) --- 4 harmonics/open strings
-1st C,  Harmonic Minor (5th Mode) --- 3 harmonics/open strings
-1st C,  Harmonic Minor (6th Mode) --- 1 harmonics/open strings
-1st C,  Harmonic Minor (7th Mode) --- 1 harmonics/open strings
-1st C#, Major          (1st Mode) --- 0 harmonics/open strings
-1st C#, Major          (2nd Mode) --- 2 harmonics/open strings
-1st C#, Major          (3rd Mode) --- 4 harmonics/open strings
-1st C#, Major          (4th Mode) --- 1 harmonics/open strings
-1st C#, Major          (5th Mode) --- 1 harmonics/open strings
-1st C#, Major          (6th Mode) --- 3 harmonics/open strings
-1st C#, Major          (7th Mode) --- 5 harmonics/open strings
-1st C#, Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-1st C#, Melodic Minor  (2nd Mode) --- 4 harmonics/open strings
-1st C#, Melodic Minor  (3rd Mode) --- 1 harmonics/open strings
-1st C#, Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-1st C#, Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-1st C#, Melodic Minor  (6th Mode) --- 2 harmonics/open strings
-1st C#, Melodic Minor  (7th Mode) --- 4 harmonics/open strings
-1st C#, Harmonic Minor (1st Mode) --- 1 harmonics/open strings
-1st C#, Harmonic Minor (2nd Mode) --- 3 harmonics/open strings
-1st C#, Harmonic Minor (3rd Mode) --- 2 harmonics/open strings
-1st C#, Harmonic Minor (4th Mode) --- 2 harmonics/open strings
-1st C#, Harmonic Minor (5th Mode) --- 2 harmonics/open strings
-1st C#, Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-1st C#, Harmonic Minor (7th Mode) --- 5 harmonics/open strings
-1st D,  Major          (1st Mode) --- 5 harmonics/open strings
-1st D,  Major          (2nd Mode) --- 5 harmonics/open strings
-1st D,  Major          (3rd Mode) --- 3 harmonics/open strings
-1st D,  Major          (4th Mode) --- 4 harmonics/open strings
-1st D,  Major          (5th Mode) --- 5 harmonics/open strings
-1st D,  Major          (6th Mode) --- 4 harmonics/open strings
-1st D,  Major          (7th Mode) --- 2 harmonics/open strings
-1st D,  Melodic Minor  (1st Mode) --- 4 harmonics/open strings
-1st D,  Melodic Minor  (2nd Mode) --- 3 harmonics/open strings
-1st D,  Melodic Minor  (3rd Mode) --- 4 harmonics/open strings
-1st D,  Melodic Minor  (4th Mode) --- 4 harmonics/open strings
-1st D,  Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-1st D,  Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-1st D,  Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-1st D,  Harmonic Minor (1st Mode) --- 5 harmonics/open strings
-1st D,  Harmonic Minor (2nd Mode) --- 4 harmonics/open strings
-1st D,  Harmonic Minor (3rd Mode) --- 3 harmonics/open strings
-1st D,  Harmonic Minor (4th Mode) --- 4 harmonics/open strings
-1st D,  Harmonic Minor (5th Mode) --- 4 harmonics/open strings
-1st D,  Harmonic Minor (6th Mode) --- 3 harmonics/open strings
-1st D,  Harmonic Minor (7th Mode) --- 1 harmonics/open strings
-1st D#, Major          (1st Mode) --- 2 harmonics/open strings
-1st D#, Major          (2nd Mode) --- 0 harmonics/open strings
-1st D#, Major          (3rd Mode) --- 2 harmonics/open strings
-1st D#, Major          (4th Mode) --- 3 harmonics/open strings
-1st D#, Major          (5th Mode) --- 1 harmonics/open strings
-1st D#, Major          (6th Mode) --- 1 harmonics/open strings
-1st D#, Major          (7th Mode) --- 3 harmonics/open strings
-1st D#, Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-1st D#, Melodic Minor  (2nd Mode) --- 2 harmonics/open strings
-1st D#, Melodic Minor  (3rd Mode) --- 3 harmonics/open strings
-1st D#, Melodic Minor  (4th Mode) --- 1 harmonics/open strings
-1st D#, Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-1st D#, Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-1st D#, Melodic Minor  (7th Mode) --- 4 harmonics/open strings
-1st D#, Harmonic Minor (1st Mode) --- 1 harmonics/open strings
-1st D#, Harmonic Minor (2nd Mode) --- 1 harmonics/open strings
-1st D#, Harmonic Minor (3rd Mode) --- 4 harmonics/open strings
-1st D#, Harmonic Minor (4th Mode) --- 2 harmonics/open strings
-1st D#, Harmonic Minor (5th Mode) --- 2 harmonics/open strings
-1st D#, Harmonic Minor (6th Mode) --- 2 harmonics/open strings
-1st D#, Harmonic Minor (7th Mode) --- 4 harmonics/open strings
-2nd E,  Major          (1st Mode) --- 3 harmonics/open strings
-2nd E,  Major          (2nd Mode) --- 5 harmonics/open strings
-2nd E,  Major          (3rd Mode) --- 5 harmonics/open strings
-2nd E,  Major          (4th Mode) --- 2 harmonics/open strings
-2nd E,  Major          (5th Mode) --- 4 harmonics/open strings
-2nd E,  Major          (6th Mode) --- 5 harmonics/open strings
-2nd E,  Major          (7th Mode) --- 4 harmonics/open strings
-2nd E,  Melodic Minor  (1st Mode) --- 4 harmonics/open strings
-2nd E,  Melodic Minor  (2nd Mode) --- 4 harmonics/open strings
-2nd E,  Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-2nd E,  Melodic Minor  (4th Mode) --- 4 harmonics/open strings
-2nd E,  Melodic Minor  (5th Mode) --- 4 harmonics/open strings
-2nd E,  Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-2nd E,  Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-2nd E,  Harmonic Minor (1st Mode) --- 4 harmonics/open strings
-2nd E,  Harmonic Minor (2nd Mode) --- 5 harmonics/open strings
-2nd E,  Harmonic Minor (3rd Mode) --- 1 harmonics/open strings
-2nd E,  Harmonic Minor (4th Mode) --- 3 harmonics/open strings
-2nd E,  Harmonic Minor (5th Mode) --- 4 harmonics/open strings
-2nd E,  Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-2nd E,  Harmonic Minor (7th Mode) --- 3 harmonics/open strings
-2nd F,  Major          (1st Mode) --- 4 harmonics/open strings
-2nd F,  Major          (2nd Mode) --- 2 harmonics/open strings
-2nd F,  Major          (3rd Mode) --- 0 harmonics/open strings
-2nd F,  Major          (4th Mode) --- 5 harmonics/open strings
-2nd F,  Major          (5th Mode) --- 3 harmonics/open strings
-2nd F,  Major          (6th Mode) --- 1 harmonics/open strings
-2nd F,  Major          (7th Mode) --- 1 harmonics/open strings
-2nd F,  Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-2nd F,  Melodic Minor  (2nd Mode) --- 2 harmonics/open strings
-2nd F,  Melodic Minor  (3rd Mode) --- 4 harmonics/open strings
-2nd F,  Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-2nd F,  Melodic Minor  (5th Mode) --- 1 harmonics/open strings
-2nd F,  Melodic Minor  (6th Mode) --- 4 harmonics/open strings
-2nd F,  Melodic Minor  (7th Mode) --- 3 harmonics/open strings
-2nd F,  Harmonic Minor (1st Mode) --- 3 harmonics/open strings
-2nd F,  Harmonic Minor (2nd Mode) --- 1 harmonics/open strings
-2nd F,  Harmonic Minor (3rd Mode) --- 5 harmonics/open strings
-2nd F,  Harmonic Minor (4th Mode) --- 4 harmonics/open strings
-2nd F,  Harmonic Minor (5th Mode) --- 2 harmonics/open strings
-2nd F,  Harmonic Minor (6th Mode) --- 2 harmonics/open strings
-2nd F,  Harmonic Minor (7th Mode) --- 2 harmonics/open strings
-2nd F#, Major          (1st Mode) --- 1 harmonics/open strings
-2nd F#, Major          (2nd Mode) --- 3 harmonics/open strings
-2nd F#, Major          (3rd Mode) --- 5 harmonics/open strings
-2nd F#, Major          (4th Mode) --- 0 harmonics/open strings
-2nd F#, Major          (5th Mode) --- 2 harmonics/open strings
-2nd F#, Major          (6th Mode) --- 4 harmonics/open strings
-2nd F#, Major          (7th Mode) --- 5 harmonics/open strings
-2nd F#, Melodic Minor  (1st Mode) --- 3 harmonics/open strings
-2nd F#, Melodic Minor  (2nd Mode) --- 4 harmonics/open strings
-2nd F#, Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-2nd F#, Melodic Minor  (4th Mode) --- 2 harmonics/open strings
-2nd F#, Melodic Minor  (5th Mode) --- 4 harmonics/open strings
-2nd F#, Melodic Minor  (6th Mode) --- 1 harmonics/open strings
-2nd F#, Melodic Minor  (7th Mode) --- 3 harmonics/open strings
-2nd F#, Harmonic Minor (1st Mode) --- 2 harmonics/open strings
-2nd F#, Harmonic Minor (2nd Mode) --- 4 harmonics/open strings
-2nd F#, Harmonic Minor (3rd Mode) --- 1 harmonics/open strings
-2nd F#, Harmonic Minor (4th Mode) --- 1 harmonics/open strings
-2nd F#, Harmonic Minor (5th Mode) --- 3 harmonics/open strings
-2nd F#, Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-2nd F#, Harmonic Minor (7th Mode) --- 4 harmonics/open strings
-2nd G,  Major          (1st Mode) --- 5 harmonics/open strings
-2nd G,  Major          (2nd Mode) --- 4 harmonics/open strings
-2nd G,  Major          (3rd Mode) --- 2 harmonics/open strings
-2nd G,  Major          (4th Mode) --- 5 harmonics/open strings
-2nd G,  Major          (5th Mode) --- 5 harmonics/open strings
-2nd G,  Major          (6th Mode) --- 3 harmonics/open strings
-2nd G,  Major          (7th Mode) --- 1 harmonics/open strings
-2nd G,  Melodic Minor  (1st Mode) --- 3 harmonics/open strings
-2nd G,  Melodic Minor  (2nd Mode) --- 2 harmonics/open strings
-2nd G,  Melodic Minor  (3rd Mode) --- 4 harmonics/open strings
-2nd G,  Melodic Minor  (4th Mode) --- 4 harmonics/open strings
-2nd G,  Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-2nd G,  Melodic Minor  (6th Mode) --- 4 harmonics/open strings
-2nd G,  Melodic Minor  (7th Mode) --- 3 harmonics/open strings
-2nd G,  Harmonic Minor (1st Mode) --- 4 harmonics/open strings
-2nd G,  Harmonic Minor (2nd Mode) --- 3 harmonics/open strings
-2nd G,  Harmonic Minor (3rd Mode) --- 4 harmonics/open strings
-2nd G,  Harmonic Minor (4th Mode) --- 5 harmonics/open strings
-2nd G,  Harmonic Minor (5th Mode) --- 4 harmonics/open strings
-2nd G,  Harmonic Minor (6th Mode) --- 2 harmonics/open strings
-2nd G,  Harmonic Minor (7th Mode) --- 2 harmonics/open strings
-2nd G#, Major          (1st Mode) --- 1 harmonics/open strings
-2nd G#, Major          (2nd Mode) --- 1 harmonics/open strings
-2nd G#, Major          (3rd Mode) --- 3 harmonics/open strings
-2nd G#, Major          (4th Mode) --- 2 harmonics/open strings
-2nd G#, Major          (5th Mode) --- 0 harmonics/open strings
-2nd G#, Major          (6th Mode) --- 2 harmonics/open strings
-2nd G#, Major          (7th Mode) --- 4 harmonics/open strings
-2nd G#, Melodic Minor  (1st Mode) --- 3 harmonics/open strings
-2nd G#, Melodic Minor  (2nd Mode) --- 3 harmonics/open strings
-2nd G#, Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-2nd G#, Melodic Minor  (4th Mode) --- 2 harmonics/open strings
-2nd G#, Melodic Minor  (5th Mode) --- 2 harmonics/open strings
-2nd G#, Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-2nd G#, Melodic Minor  (7th Mode) --- 4 harmonics/open strings
-2nd G#, Harmonic Minor (1st Mode) --- 2 harmonics/open strings
-2nd G#, Harmonic Minor (2nd Mode) --- 2 harmonics/open strings
-2nd G#, Harmonic Minor (3rd Mode) --- 3 harmonics/open strings
-2nd G#, Harmonic Minor (4th Mode) --- 1 harmonics/open strings
-2nd G#, Harmonic Minor (5th Mode) --- 1 harmonics/open strings
-2nd G#, Harmonic Minor (6th Mode) --- 3 harmonics/open strings
-2nd G#, Harmonic Minor (7th Mode) --- 4 harmonics/open strings
-2nd A,  Major          (1st Mode) --- 4 harmonics/open strings
-2nd A,  Major          (2nd Mode) --- 5 harmonics/open strings
-2nd A,  Major          (3rd Mode) --- 4 harmonics/open strings
-2nd A,  Major          (4th Mode) --- 3 harmonics/open strings
-2nd A,  Major          (5th Mode) --- 5 harmonics/open strings
-2nd A,  Major          (6th Mode) --- 5 harmonics/open strings
-2nd A,  Major          (7th Mode) --- 3 harmonics/open strings
-2nd A,  Melodic Minor  (1st Mode) --- 4 harmonics/open strings
-2nd A,  Melodic Minor  (2nd Mode) --- 3 harmonics/open strings
-2nd A,  Melodic Minor  (3rd Mode) --- 3 harmonics/open strings
-2nd A,  Melodic Minor  (4th Mode) --- 4 harmonics/open strings
-2nd A,  Melodic Minor  (5th Mode) --- 4 harmonics/open strings
-2nd A,  Melodic Minor  (6th Mode) --- 2 harmonics/open strings
-2nd A,  Melodic Minor  (7th Mode) --- 1 harmonics/open strings
-2nd A,  Harmonic Minor (1st Mode) --- 4 harmonics/open strings
-2nd A,  Harmonic Minor (2nd Mode) --- 4 harmonics/open strings
-2nd A,  Harmonic Minor (3rd Mode) --- 2 harmonics/open strings
-2nd A,  Harmonic Minor (4th Mode) --- 4 harmonics/open strings
-2nd A,  Harmonic Minor (5th Mode) --- 5 harmonics/open strings
-2nd A,  Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-2nd A,  Harmonic Minor (7th Mode) --- 2 harmonics/open strings
-2nd A#, Major          (1st Mode) --- 3 harmonics/open strings
-2nd A#, Major          (2nd Mode) --- 1 harmonics/open strings
-2nd A#, Major          (3rd Mode) --- 1 harmonics/open strings
-2nd A#, Major          (4th Mode) --- 4 harmonics/open strings
-2nd A#, Major          (5th Mode) --- 2 harmonics/open strings
-2nd A#, Major          (6th Mode) --- 0 harmonics/open strings
-2nd A#, Major          (7th Mode) --- 2 harmonics/open strings
-2nd A#, Melodic Minor  (1st Mode) --- 1 harmonics/open strings
-2nd A#, Melodic Minor  (2nd Mode) --- 3 harmonics/open strings
-2nd A#, Melodic Minor  (3rd Mode) --- 3 harmonics/open strings
-2nd A#, Melodic Minor  (4th Mode) --- 2 harmonics/open strings
-2nd A#, Melodic Minor  (5th Mode) --- 2 harmonics/open strings
-2nd A#, Melodic Minor  (6th Mode) --- 4 harmonics/open strings
-2nd A#, Melodic Minor  (7th Mode) --- 4 harmonics/open strings
-2nd A#, Harmonic Minor (1st Mode) --- 2 harmonics/open strings
-2nd A#, Harmonic Minor (2nd Mode) --- 2 harmonics/open strings
-2nd A#, Harmonic Minor (3rd Mode) --- 4 harmonics/open strings
-2nd A#, Harmonic Minor (4th Mode) --- 3 harmonics/open strings
-2nd A#, Harmonic Minor (5th Mode) --- 1 harmonics/open strings
-2nd A#, Harmonic Minor (6th Mode) --- 1 harmonics/open strings
-2nd A#, Harmonic Minor (7th Mode) --- 3 harmonics/open strings
-2nd B,  Major          (1st Mode) --- 2 harmonics/open strings
-2nd B,  Major          (2nd Mode) --- 4 harmonics/open strings
-2nd B,  Major          (3rd Mode) --- 5 harmonics/open strings
-2nd B,  Major          (4th Mode) --- 1 harmonics/open strings
-2nd B,  Major          (5th Mode) --- 3 harmonics/open strings
-2nd B,  Major          (6th Mode) --- 5 harmonics/open strings
-2nd B,  Major          (7th Mode) --- 5 harmonics/open strings
-2nd B,  Melodic Minor  (1st Mode) --- 4 harmonics/open strings
-2nd B,  Melodic Minor  (2nd Mode) --- 4 harmonics/open strings
-2nd B,  Melodic Minor  (3rd Mode) --- 3 harmonics/open strings
-2nd B,  Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-2nd B,  Melodic Minor  (5th Mode) --- 4 harmonics/open strings
-2nd B,  Melodic Minor  (6th Mode) --- 2 harmonics/open strings
-2nd B,  Melodic Minor  (7th Mode) --- 3 harmonics/open strings
-2nd B,  Harmonic Minor (1st Mode) --- 3 harmonics/open strings
-2nd B,  Harmonic Minor (2nd Mode) --- 4 harmonics/open strings
-2nd B,  Harmonic Minor (3rd Mode) --- 2 harmonics/open strings
-2nd B,  Harmonic Minor (4th Mode) --- 2 harmonics/open strings
-2nd B,  Harmonic Minor (5th Mode) --- 4 harmonics/open strings
-2nd B,  Harmonic Minor (6th Mode) --- 5 harmonics/open strings
-2nd B,  Harmonic Minor (7th Mode) --- 4 harmonics/open strings
-2nd C,  Major          (1st Mode) --- 5 harmonics/open strings
-2nd C,  Major          (2nd Mode) --- 3 harmonics/open strings
-2nd C,  Major          (3rd Mode) --- 1 harmonics/open strings
-2nd C,  Major          (4th Mode) --- 5 harmonics/open strings
-2nd C,  Major          (5th Mode) --- 4 harmonics/open strings
-2nd C,  Major          (6th Mode) --- 2 harmonics/open strings
-2nd C,  Major          (7th Mode) --- 0 harmonics/open strings
-2nd C,  Melodic Minor  (1st Mode) --- 3 harmonics/open strings
-2nd C,  Melodic Minor  (2nd Mode) --- 1 harmonics/open strings
-2nd C,  Melodic Minor  (3rd Mode) --- 4 harmonics/open strings
-2nd C,  Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-2nd C,  Melodic Minor  (5th Mode) --- 2 harmonics/open strings
-2nd C,  Melodic Minor  (6th Mode) --- 4 harmonics/open strings
-2nd C,  Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-2nd C,  Harmonic Minor (1st Mode) --- 4 harmonics/open strings
-2nd C,  Harmonic Minor (2nd Mode) --- 2 harmonics/open strings
-2nd C,  Harmonic Minor (3rd Mode) --- 4 harmonics/open strings
-2nd C,  Harmonic Minor (4th Mode) --- 4 harmonics/open strings
-2nd C,  Harmonic Minor (5th Mode) --- 3 harmonics/open strings
-2nd C,  Harmonic Minor (6th Mode) --- 1 harmonics/open strings
-2nd C,  Harmonic Minor (7th Mode) --- 1 harmonics/open strings
-2nd C#, Major          (1st Mode) --- 0 harmonics/open strings
-2nd C#, Major          (2nd Mode) --- 2 harmonics/open strings
-2nd C#, Major          (3rd Mode) --- 4 harmonics/open strings
-2nd C#, Major          (4th Mode) --- 1 harmonics/open strings
-2nd C#, Major          (5th Mode) --- 1 harmonics/open strings
-2nd C#, Major          (6th Mode) --- 3 harmonics/open strings
-2nd C#, Major          (7th Mode) --- 5 harmonics/open strings
-2nd C#, Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-2nd C#, Melodic Minor  (2nd Mode) --- 4 harmonics/open strings
-2nd C#, Melodic Minor  (3rd Mode) --- 1 harmonics/open strings
-2nd C#, Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-2nd C#, Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-2nd C#, Melodic Minor  (6th Mode) --- 2 harmonics/open strings
-2nd C#, Melodic Minor  (7th Mode) --- 4 harmonics/open strings
-2nd C#, Harmonic Minor (1st Mode) --- 1 harmonics/open strings
-2nd C#, Harmonic Minor (2nd Mode) --- 3 harmonics/open strings
-2nd C#, Harmonic Minor (3rd Mode) --- 2 harmonics/open strings
-2nd C#, Harmonic Minor (4th Mode) --- 2 harmonics/open strings
-2nd C#, Harmonic Minor (5th Mode) --- 2 harmonics/open strings
-2nd C#, Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-2nd C#, Harmonic Minor (7th Mode) --- 5 harmonics/open strings
-2nd D,  Major          (1st Mode) --- 5 harmonics/open strings
-2nd D,  Major          (2nd Mode) --- 5 harmonics/open strings
-2nd D,  Major          (3rd Mode) --- 3 harmonics/open strings
-2nd D,  Major          (4th Mode) --- 4 harmonics/open strings
-2nd D,  Major          (5th Mode) --- 5 harmonics/open strings
-2nd D,  Major          (6th Mode) --- 4 harmonics/open strings
-2nd D,  Major          (7th Mode) --- 2 harmonics/open strings
-2nd D,  Melodic Minor  (1st Mode) --- 4 harmonics/open strings
-2nd D,  Melodic Minor  (2nd Mode) --- 3 harmonics/open strings
-2nd D,  Melodic Minor  (3rd Mode) --- 4 harmonics/open strings
-2nd D,  Melodic Minor  (4th Mode) --- 4 harmonics/open strings
-2nd D,  Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-2nd D,  Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-2nd D,  Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-2nd D,  Harmonic Minor (1st Mode) --- 5 harmonics/open strings
-2nd D,  Harmonic Minor (2nd Mode) --- 4 harmonics/open strings
-2nd D,  Harmonic Minor (3rd Mode) --- 3 harmonics/open strings
-2nd D,  Harmonic Minor (4th Mode) --- 4 harmonics/open strings
-2nd D,  Harmonic Minor (5th Mode) --- 4 harmonics/open strings
-2nd D,  Harmonic Minor (6th Mode) --- 3 harmonics/open strings
-2nd D,  Harmonic Minor (7th Mode) --- 1 harmonics/open strings
-2nd D#, Major          (1st Mode) --- 2 harmonics/open strings
-2nd D#, Major          (2nd Mode) --- 0 harmonics/open strings
-2nd D#, Major          (3rd Mode) --- 2 harmonics/open strings
-2nd D#, Major          (4th Mode) --- 3 harmonics/open strings
-2nd D#, Major          (5th Mode) --- 1 harmonics/open strings
-2nd D#, Major          (6th Mode) --- 1 harmonics/open strings
-2nd D#, Major          (7th Mode) --- 3 harmonics/open strings
-2nd D#, Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-2nd D#, Melodic Minor  (2nd Mode) --- 2 harmonics/open strings
-2nd D#, Melodic Minor  (3rd Mode) --- 3 harmonics/open strings
-2nd D#, Melodic Minor  (4th Mode) --- 1 harmonics/open strings
-2nd D#, Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-2nd D#, Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-2nd D#, Melodic Minor  (7th Mode) --- 4 harmonics/open strings
-2nd D#, Harmonic Minor (1st Mode) --- 1 harmonics/open strings
-2nd D#, Harmonic Minor (2nd Mode) --- 1 harmonics/open strings
-2nd D#, Harmonic Minor (3rd Mode) --- 4 harmonics/open strings
-2nd D#, Harmonic Minor (4th Mode) --- 2 harmonics/open strings
-2nd D#, Harmonic Minor (5th Mode) --- 2 harmonics/open strings
-2nd D#, Harmonic Minor (6th Mode) --- 2 harmonics/open strings
-2nd D#, Harmonic Minor (7th Mode) --- 4 harmonics/open strings
-3rd E,  Major          (1st Mode) --- 3 harmonics/open strings
-3rd E,  Major          (2nd Mode) --- 5 harmonics/open strings
-3rd E,  Major          (3rd Mode) --- 5 harmonics/open strings
-3rd E,  Major          (4th Mode) --- 2 harmonics/open strings
-3rd E,  Major          (5th Mode) --- 4 harmonics/open strings
-3rd E,  Major          (6th Mode) --- 5 harmonics/open strings
-3rd E,  Major          (7th Mode) --- 4 harmonics/open strings
-3rd E,  Melodic Minor  (1st Mode) --- 4 harmonics/open strings
-3rd E,  Melodic Minor  (2nd Mode) --- 4 harmonics/open strings
-3rd E,  Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-3rd E,  Melodic Minor  (4th Mode) --- 4 harmonics/open strings
-3rd E,  Melodic Minor  (5th Mode) --- 4 harmonics/open strings
-3rd E,  Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-3rd E,  Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-3rd E,  Harmonic Minor (1st Mode) --- 4 harmonics/open strings
-3rd E,  Harmonic Minor (2nd Mode) --- 5 harmonics/open strings
-3rd E,  Harmonic Minor (3rd Mode) --- 1 harmonics/open strings
-3rd E,  Harmonic Minor (4th Mode) --- 3 harmonics/open strings
-3rd E,  Harmonic Minor (5th Mode) --- 4 harmonics/open strings
-3rd E,  Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-3rd E,  Harmonic Minor (7th Mode) --- 3 harmonics/open strings
-3rd F,  Major          (1st Mode) --- 4 harmonics/open strings
-3rd F,  Major          (2nd Mode) --- 2 harmonics/open strings
-3rd F,  Major          (3rd Mode) --- 0 harmonics/open strings
-3rd F,  Major          (4th Mode) --- 5 harmonics/open strings
-3rd F,  Major          (5th Mode) --- 3 harmonics/open strings
-3rd F,  Major          (6th Mode) --- 1 harmonics/open strings
-3rd F,  Major          (7th Mode) --- 1 harmonics/open strings
-3rd F,  Melodic Minor  (1st Mode) --- 2 harmonics/open strings
-3rd F,  Melodic Minor  (2nd Mode) --- 2 harmonics/open strings
-3rd F,  Melodic Minor  (3rd Mode) --- 4 harmonics/open strings
-3rd F,  Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-3rd F,  Melodic Minor  (5th Mode) --- 1 harmonics/open strings
-3rd F,  Melodic Minor  (6th Mode) --- 4 harmonics/open strings
-3rd F,  Melodic Minor  (7th Mode) --- 3 harmonics/open strings
-3rd F,  Harmonic Minor (1st Mode) --- 3 harmonics/open strings
-3rd F,  Harmonic Minor (2nd Mode) --- 1 harmonics/open strings
-3rd F,  Harmonic Minor (3rd Mode) --- 5 harmonics/open strings
-3rd F,  Harmonic Minor (4th Mode) --- 4 harmonics/open strings
-3rd F,  Harmonic Minor (5th Mode) --- 2 harmonics/open strings
-3rd F,  Harmonic Minor (6th Mode) --- 2 harmonics/open strings
-3rd F,  Harmonic Minor (7th Mode) --- 2 harmonics/open strings
-3rd F#, Major          (1st Mode) --- 1 harmonics/open strings
-3rd F#, Major          (2nd Mode) --- 3 harmonics/open strings
-3rd F#, Major          (3rd Mode) --- 5 harmonics/open strings
-3rd F#, Major          (4th Mode) --- 0 harmonics/open strings
-3rd F#, Major          (5th Mode) --- 2 harmonics/open strings
-3rd F#, Major          (6th Mode) --- 4 harmonics/open strings
-3rd F#, Major          (7th Mode) --- 5 harmonics/open strings
-3rd F#, Melodic Minor  (1st Mode) --- 3 harmonics/open strings
-3rd F#, Melodic Minor  (2nd Mode) --- 4 harmonics/open strings
-3rd F#, Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-3rd F#, Melodic Minor  (4th Mode) --- 2 harmonics/open strings
-3rd F#, Melodic Minor  (5th Mode) --- 4 harmonics/open strings
-3rd F#, Melodic Minor  (6th Mode) --- 1 harmonics/open strings
-3rd F#, Melodic Minor  (7th Mode) --- 3 harmonics/open strings
-3rd F#, Harmonic Minor (1st Mode) --- 2 harmonics/open strings
-3rd F#, Harmonic Minor (2nd Mode) --- 4 harmonics/open strings
-3rd F#, Harmonic Minor (3rd Mode) --- 1 harmonics/open strings
-3rd F#, Harmonic Minor (4th Mode) --- 1 harmonics/open strings
-3rd F#, Harmonic Minor (5th Mode) --- 3 harmonics/open strings
-3rd F#, Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-3rd F#, Harmonic Minor (7th Mode) --- 4 harmonics/open strings
-3rd G,  Major          (1st Mode) --- 6 harmonics/open strings
-3rd G,  Major          (2nd Mode) --- 4 harmonics/open strings
-3rd G,  Major          (3rd Mode) --- 2 harmonics/open strings
-3rd G,  Major          (4th Mode) --- 6 harmonics/open strings
-3rd G,  Major          (5th Mode) --- 5 harmonics/open strings
-3rd G,  Major          (6th Mode) --- 3 harmonics/open strings
-3rd G,  Major          (7th Mode) --- 1 harmonics/open strings
-3rd G,  Melodic Minor  (1st Mode) --- 4 harmonics/open strings
-3rd G,  Melodic Minor  (2nd Mode) --- 2 harmonics/open strings
-3rd G,  Melodic Minor  (3rd Mode) --- 5 harmonics/open strings
-3rd G,  Melodic Minor  (4th Mode) --- 4 harmonics/open strings
-3rd G,  Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-3rd G,  Melodic Minor  (6th Mode) --- 5 harmonics/open strings
-3rd G,  Melodic Minor  (7th Mode) --- 3 harmonics/open strings
-3rd G,  Harmonic Minor (1st Mode) --- 5 harmonics/open strings
-3rd G,  Harmonic Minor (2nd Mode) --- 3 harmonics/open strings
-3rd G,  Harmonic Minor (3rd Mode) --- 5 harmonics/open strings
-3rd G,  Harmonic Minor (4th Mode) --- 5 harmonics/open strings
-3rd G,  Harmonic Minor (5th Mode) --- 4 harmonics/open strings
-3rd G,  Harmonic Minor (6th Mode) --- 2 harmonics/open strings
-3rd G,  Harmonic Minor (7th Mode) --- 2 harmonics/open strings
-3rd G#, Major          (1st Mode) --- 1 harmonics/open strings
-3rd G#, Major          (2nd Mode) --- 2 harmonics/open strings
-3rd G#, Major          (3rd Mode) --- 4 harmonics/open strings
-3rd G#, Major          (4th Mode) --- 2 harmonics/open strings
-3rd G#, Major          (5th Mode) --- 1 harmonics/open strings
-3rd G#, Major          (6th Mode) --- 3 harmonics/open strings
-3rd G#, Major          (7th Mode) --- 5 harmonics/open strings
-3rd G#, Melodic Minor  (1st Mode) --- 3 harmonics/open strings
-3rd G#, Melodic Minor  (2nd Mode) --- 4 harmonics/open strings
-3rd G#, Melodic Minor  (3rd Mode) --- 2 harmonics/open strings
-3rd G#, Melodic Minor  (4th Mode) --- 3 harmonics/open strings
-3rd G#, Melodic Minor  (5th Mode) --- 3 harmonics/open strings
-3rd G#, Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-3rd G#, Melodic Minor  (7th Mode) --- 4 harmonics/open strings
-3rd G#, Harmonic Minor (1st Mode) --- 2 harmonics/open strings
-3rd G#, Harmonic Minor (2nd Mode) --- 3 harmonics/open strings
-3rd G#, Harmonic Minor (3rd Mode) --- 3 harmonics/open strings
-3rd G#, Harmonic Minor (4th Mode) --- 2 harmonics/open strings
-3rd G#, Harmonic Minor (5th Mode) --- 2 harmonics/open strings
-3rd G#, Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-3rd G#, Harmonic Minor (7th Mode) --- 5 harmonics/open strings
-3rd A,  Major          (1st Mode) --- 5 harmonics/open strings
-3rd A,  Major          (2nd Mode) --- 6 harmonics/open strings
-3rd A,  Major          (3rd Mode) --- 4 harmonics/open strings
-3rd A,  Major          (4th Mode) --- 4 harmonics/open strings
-3rd A,  Major          (5th Mode) --- 6 harmonics/open strings
-3rd A,  Major          (6th Mode) --- 5 harmonics/open strings
-3rd A,  Major          (7th Mode) --- 3 harmonics/open strings
-3rd A,  Melodic Minor  (1st Mode) --- 4 harmonics/open strings
-3rd A,  Melodic Minor  (2nd Mode) --- 4 harmonics/open strings
-3rd A,  Melodic Minor  (3rd Mode) --- 4 harmonics/open strings
-3rd A,  Melodic Minor  (4th Mode) --- 5 harmonics/open strings
-3rd A,  Melodic Minor  (5th Mode) --- 4 harmonics/open strings
-3rd A,  Melodic Minor  (6th Mode) --- 3 harmonics/open strings
-3rd A,  Melodic Minor  (7th Mode) --- 2 harmonics/open strings
-3rd A,  Harmonic Minor (1st Mode) --- 5 harmonics/open strings
-3rd A,  Harmonic Minor (2nd Mode) --- 5 harmonics/open strings
-3rd A,  Harmonic Minor (3rd Mode) --- 3 harmonics/open strings
-3rd A,  Harmonic Minor (4th Mode) --- 5 harmonics/open strings
-3rd A,  Harmonic Minor (5th Mode) --- 5 harmonics/open strings
-3rd A,  Harmonic Minor (6th Mode) --- 4 harmonics/open strings
-3rd A,  Harmonic Minor (7th Mode) --- 2 harmonics/open strings
+1st E,  Ionian     ------------------ 3  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'E 12 (harm)']
+1st E,  Dorian     ------------------ 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Phrygian   ------------------ 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Lydian     ------------------ 2  harmonics/open strings: ['E 0  (open)', 'E 12 (harm)']
+1st E,  Mixolydian ------------------ 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Aeolian    ------------------ 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Locrian    ------------------ 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Melodic Minor  (1st Mode) --- 3  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'E 12 (harm)']
+1st E,  Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'E 12 (harm)']
+1st E,  Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['E 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Melodic Minor  (5th Mode) --- 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Melodic Minor  (6th Mode) --- 2  harmonics/open strings: ['E 0  (open)', 'E 12 (harm)']
+1st E,  Melodic Minor  (7th Mode) --- 2  harmonics/open strings: ['E 0  (open)', 'E 12 (harm)']
+1st E,  Harmonic Minor (1st Mode) --- 3  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'E 12 (harm)']
+1st E,  Harmonic Minor (2nd Mode) --- 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Harmonic Minor (3rd Mode) --- 2  harmonics/open strings: ['E 0  (open)', 'E 12 (harm)']
+1st E,  Harmonic Minor (4th Mode) --- 3  harmonics/open strings: ['E 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Harmonic Minor (5th Mode) --- 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Harmonic Minor (6th Mode) --- 4  harmonics/open strings: ['E 0  (open)', 'A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st E,  Harmonic Minor (7th Mode) --- 3  harmonics/open strings: ['E 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F,  Ionian     ------------------ 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F,  Dorian     ------------------ 1  harmonics/open strings: ['D 0  (open)']
+1st F,  Phrygian   ------------------ 0  harmonics/open strings: []
+1st F,  Lydian     ------------------ 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F,  Mixolydian ------------------ 2  harmonics/open strings: ['A 0  (open)', 'D 0  (open)']
+1st F,  Aeolian    ------------------ 0  harmonics/open strings: []
+1st F,  Locrian    ------------------ 0  harmonics/open strings: []
+1st F,  Melodic Minor  (1st Mode) --- 1  harmonics/open strings: ['E 12 (harm)']
+1st F,  Melodic Minor  (2nd Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st F,  Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F,  Melodic Minor  (4th Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st F,  Melodic Minor  (5th Mode) --- 1  harmonics/open strings: ['A 0  (open)']
+1st F,  Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F,  Melodic Minor  (7th Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'D 0  (open)']
+1st F,  Harmonic Minor (1st Mode) --- 2  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)']
+1st F,  Harmonic Minor (2nd Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st F,  Harmonic Minor (3rd Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F,  Harmonic Minor (4th Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'D 0  (open)']
+1st F,  Harmonic Minor (5th Mode) --- 1  harmonics/open strings: ['A 0  (open)']
+1st F,  Harmonic Minor (6th Mode) --- 0  harmonics/open strings: []
+1st F,  Harmonic Minor (7th Mode) --- 1  harmonics/open strings: ['A 0  (open)']
+1st F#, Ionian     ------------------ 0  harmonics/open strings: []
+1st F#, Dorian     ------------------ 2  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)']
+1st F#, Phrygian   ------------------ 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F#, Lydian     ------------------ 0  harmonics/open strings: []
+1st F#, Mixolydian ------------------ 1  harmonics/open strings: ['E 12 (harm)']
+1st F#, Aeolian    ------------------ 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F#, Locrian    ------------------ 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F#, Melodic Minor  (1st Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'D 0  (open)']
+1st F#, Melodic Minor  (2nd Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)']
+1st F#, Melodic Minor  (3rd Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st F#, Melodic Minor  (4th Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)']
+1st F#, Melodic Minor  (5th Mode) --- 2  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)']
+1st F#, Melodic Minor  (6th Mode) --- 1  harmonics/open strings: ['A 0  (open)']
+1st F#, Melodic Minor  (7th Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'D 0  (open)']
+1st F#, Harmonic Minor (1st Mode) --- 1  harmonics/open strings: ['A 0  (open)']
+1st F#, Harmonic Minor (2nd Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)']
+1st F#, Harmonic Minor (3rd Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st F#, Harmonic Minor (4th Mode) --- 1  harmonics/open strings: ['E 12 (harm)']
+1st F#, Harmonic Minor (5th Mode) --- 2  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)']
+1st F#, Harmonic Minor (6th Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st F#, Harmonic Minor (7th Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st G,  Ionian     ------------------ 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Dorian     ------------------ 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Phrygian   ------------------ 2  harmonics/open strings: ['D 0  (open)', 'G 0  (open)']
+1st G,  Lydian     ------------------ 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Mixolydian ------------------ 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Aeolian    ------------------ 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'G 0  (open)']
+1st G,  Locrian    ------------------ 1  harmonics/open strings: ['G 0  (open)']
+1st G,  Melodic Minor  (1st Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'G 0  (open)']
+1st G,  Melodic Minor  (2nd Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)']
+1st G,  Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Melodic Minor  (4th Mode) --- 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Melodic Minor  (5th Mode) --- 2  harmonics/open strings: ['D 0  (open)', 'G 0  (open)']
+1st G,  Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Melodic Minor  (7th Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)']
+1st G,  Harmonic Minor (1st Mode) --- 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Harmonic Minor (2nd Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Harmonic Minor (3rd Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Harmonic Minor (4th Mode) --- 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G,  Harmonic Minor (5th Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'G 0  (open)']
+1st G,  Harmonic Minor (6th Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'G 0  (open)']
+1st G,  Harmonic Minor (7th Mode) --- 1  harmonics/open strings: ['G 0  (open)']
+1st G#, Ionian     ------------------ 1  harmonics/open strings: ['G 0  (open)']
+1st G#, Dorian     ------------------ 0  harmonics/open strings: []
+1st G#, Phrygian   ------------------ 2  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)']
+1st G#, Lydian     ------------------ 2  harmonics/open strings: ['D 0  (open)', 'G 0  (open)']
+1st G#, Mixolydian ------------------ 0  harmonics/open strings: []
+1st G#, Aeolian    ------------------ 1  harmonics/open strings: ['E 12 (harm)']
+1st G#, Locrian    ------------------ 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st G#, Melodic Minor  (1st Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)']
+1st G#, Melodic Minor  (2nd Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'D 0  (open)']
+1st G#, Melodic Minor  (3rd Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)']
+1st G#, Melodic Minor  (4th Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st G#, Melodic Minor  (5th Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)']
+1st G#, Melodic Minor  (6th Mode) --- 2  harmonics/open strings: ['D 0  (open)', 'G 0  (open)']
+1st G#, Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st G#, Harmonic Minor (1st Mode) --- 1  harmonics/open strings: ['G 0  (open)']
+1st G#, Harmonic Minor (2nd Mode) --- 1  harmonics/open strings: ['A 0  (open)']
+1st G#, Harmonic Minor (3rd Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st G#, Harmonic Minor (4th Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st G#, Harmonic Minor (5th Mode) --- 1  harmonics/open strings: ['E 12 (harm)']
+1st G#, Harmonic Minor (6th Mode) --- 2  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)']
+1st G#, Harmonic Minor (7th Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)']
+1st A,  Ionian     ------------------ 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'A 12 (harm)']
+1st A,  Dorian     ------------------ 5  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Phrygian   ------------------ 5  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Lydian     ------------------ 3  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)', 'A 12 (harm)']
+1st A,  Mixolydian ------------------ 5  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Aeolian    ------------------ 5  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Locrian    ------------------ 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Melodic Minor  (1st Mode) --- 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'A 12 (harm)']
+1st A,  Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'A 12 (harm)']
+1st A,  Melodic Minor  (4th Mode) --- 4  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Melodic Minor  (5th Mode) --- 5  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)', 'A 12 (harm)']
+1st A,  Melodic Minor  (7th Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'A 12 (harm)']
+1st A,  Harmonic Minor (1st Mode) --- 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'A 12 (harm)']
+1st A,  Harmonic Minor (2nd Mode) --- 5  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Harmonic Minor (3rd Mode) --- 2  harmonics/open strings: ['A 0  (open)', 'A 12 (harm)']
+1st A,  Harmonic Minor (4th Mode) --- 4  harmonics/open strings: ['A 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Harmonic Minor (5th Mode) --- 5  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Harmonic Minor (6th Mode) --- 4  harmonics/open strings: ['A 0  (open)', 'D 0  (open)', 'G 0  (open)', 'A 12 (harm)']
+1st A,  Harmonic Minor (7th Mode) --- 3  harmonics/open strings: ['A 0  (open)', 'G 0  (open)', 'A 12 (harm)']
+1st A#, Ionian     ------------------ 3  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'A 12 (harm)']
+1st A#, Dorian     ------------------ 1  harmonics/open strings: ['G 0  (open)']
+1st A#, Phrygian   ------------------ 0  harmonics/open strings: []
+1st A#, Lydian     ------------------ 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A#, Mixolydian ------------------ 2  harmonics/open strings: ['D 0  (open)', 'G 0  (open)']
+1st A#, Aeolian    ------------------ 0  harmonics/open strings: []
+1st A#, Locrian    ------------------ 1  harmonics/open strings: ['E 12 (harm)']
+1st A#, Melodic Minor  (1st Mode) --- 1  harmonics/open strings: ['A 12 (harm)']
+1st A#, Melodic Minor  (2nd Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)']
+1st A#, Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'A 12 (harm)']
+1st A#, Melodic Minor  (4th Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)']
+1st A#, Melodic Minor  (5th Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st A#, Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A#, Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st A#, Harmonic Minor (1st Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)']
+1st A#, Harmonic Minor (2nd Mode) --- 1  harmonics/open strings: ['G 0  (open)']
+1st A#, Harmonic Minor (3rd Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st A#, Harmonic Minor (4th Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st A#, Harmonic Minor (5th Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st A#, Harmonic Minor (6th Mode) --- 1  harmonics/open strings: ['E 12 (harm)']
+1st A#, Harmonic Minor (7th Mode) --- 2  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)']
+1st B,  Ionian     ------------------ 2  harmonics/open strings: ['E 12 (harm)', 'E 7  (harm)']
+1st B,  Dorian     ------------------ 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Phrygian   ------------------ 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Lydian     ------------------ 1  harmonics/open strings: ['E 7  (harm)']
+1st B,  Mixolydian ------------------ 3  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Aeolian    ------------------ 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Locrian    ------------------ 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Melodic Minor  (1st Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'E 7  (harm)']
+1st B,  Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'E 7  (harm)']
+1st B,  Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Melodic Minor  (5th Mode) --- 4  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Melodic Minor  (6th Mode) --- 2  harmonics/open strings: ['D 0  (open)', 'E 7  (harm)']
+1st B,  Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'E 7  (harm)']
+1st B,  Harmonic Minor (1st Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'E 7  (harm)']
+1st B,  Harmonic Minor (2nd Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Harmonic Minor (3rd Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)']
+1st B,  Harmonic Minor (4th Mode) --- 2  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)']
+1st B,  Harmonic Minor (5th Mode) --- 4  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Harmonic Minor (6th Mode) --- 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st B,  Harmonic Minor (7th Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st C,  Ionian     ------------------ 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st C,  Dorian     ------------------ 3  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'A 12 (harm)']
+1st C,  Phrygian   ------------------ 1  harmonics/open strings: ['G 0  (open)']
+1st C,  Lydian     ------------------ 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st C,  Mixolydian ------------------ 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st C,  Aeolian    ------------------ 2  harmonics/open strings: ['D 0  (open)', 'G 0  (open)']
+1st C,  Locrian    ------------------ 0  harmonics/open strings: []
+1st C,  Melodic Minor  (1st Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'E 7  (harm)']
+1st C,  Melodic Minor  (2nd Mode) --- 1  harmonics/open strings: ['A 12 (harm)']
+1st C,  Melodic Minor  (3rd Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)']
+1st C,  Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'A 12 (harm)']
+1st C,  Melodic Minor  (5th Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)']
+1st C,  Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st C,  Melodic Minor  (7th Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)']
+1st C,  Harmonic Minor (1st Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st C,  Harmonic Minor (2nd Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)']
+1st C,  Harmonic Minor (3rd Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)']
+1st C,  Harmonic Minor (4th Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st C,  Harmonic Minor (5th Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)']
+1st C,  Harmonic Minor (6th Mode) --- 1  harmonics/open strings: ['D 0  (open)']
+1st C,  Harmonic Minor (7th Mode) --- 1  harmonics/open strings: ['E 12 (harm)']
+1st C#, Ionian     ------------------ 0  harmonics/open strings: []
+1st C#, Dorian     ------------------ 2  harmonics/open strings: ['E 12 (harm)', 'E 7  (harm)']
+1st C#, Phrygian   ------------------ 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)']
+1st C#, Lydian     ------------------ 1  harmonics/open strings: ['G 0  (open)']
+1st C#, Mixolydian ------------------ 1  harmonics/open strings: ['E 7  (harm)']
+1st C#, Aeolian    ------------------ 3  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)']
+1st C#, Locrian    ------------------ 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st C#, Melodic Minor  (1st Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)']
+1st C#, Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'E 7  (harm)']
+1st C#, Melodic Minor  (3rd Mode) --- 1  harmonics/open strings: ['A 12 (harm)']
+1st C#, Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'E 7  (harm)']
+1st C#, Melodic Minor  (5th Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st C#, Melodic Minor  (6th Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)']
+1st C#, Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)']
+1st C#, Harmonic Minor (1st Mode) --- 1  harmonics/open strings: ['E 12 (harm)']
+1st C#, Harmonic Minor (2nd Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'E 7  (harm)']
+1st C#, Harmonic Minor (3rd Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)']
+1st C#, Harmonic Minor (4th Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)']
+1st C#, Harmonic Minor (5th Mode) --- 2  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)']
+1st C#, Harmonic Minor (6th Mode) --- 4  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st C#, Harmonic Minor (7th Mode) --- 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st D,  Ionian     ------------------ 6  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Dorian     ------------------ 6  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Phrygian   ------------------ 4  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'A 12 (harm)', 'D 12 (harm)']
+1st D,  Lydian     ------------------ 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Mixolydian ------------------ 6  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Aeolian    ------------------ 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'D 12 (harm)']
+1st D,  Locrian    ------------------ 3  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'D 12 (harm)']
+1st D,  Melodic Minor  (1st Mode) --- 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'D 12 (harm)']
+1st D,  Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Melodic Minor  (3rd Mode) --- 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Melodic Minor  (4th Mode) --- 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Melodic Minor  (5th Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'A 12 (harm)', 'D 12 (harm)']
+1st D,  Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['D 0  (open)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Harmonic Minor (1st Mode) --- 6  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Harmonic Minor (2nd Mode) --- 5  harmonics/open strings: ['D 0  (open)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Harmonic Minor (3rd Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Harmonic Minor (4th Mode) --- 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D,  Harmonic Minor (5th Mode) --- 5  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'D 12 (harm)']
+1st D,  Harmonic Minor (6th Mode) --- 4  harmonics/open strings: ['D 0  (open)', 'E 12 (harm)', 'G 0  (open)', 'D 12 (harm)']
+1st D,  Harmonic Minor (7th Mode) --- 2  harmonics/open strings: ['D 0  (open)', 'D 12 (harm)']
+1st D#, Ionian     ------------------ 2  harmonics/open strings: ['G 0  (open)', 'D 12 (harm)']
+1st D#, Dorian     ------------------ 0  harmonics/open strings: []
+1st D#, Phrygian   ------------------ 2  harmonics/open strings: ['E 12 (harm)', 'E 7  (harm)']
+1st D#, Lydian     ------------------ 3  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)']
+1st D#, Mixolydian ------------------ 1  harmonics/open strings: ['G 0  (open)']
+1st D#, Aeolian    ------------------ 1  harmonics/open strings: ['E 7  (harm)']
+1st D#, Locrian    ------------------ 3  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)']
+1st D#, Melodic Minor  (1st Mode) --- 2  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)']
+1st D#, Melodic Minor  (2nd Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)']
+1st D#, Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)', 'D 12 (harm)']
+1st D#, Melodic Minor  (4th Mode) --- 1  harmonics/open strings: ['A 12 (harm)']
+1st D#, Melodic Minor  (5th Mode) --- 3  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'E 7  (harm)']
+1st D#, Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)']
+1st D#, Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+1st D#, Harmonic Minor (1st Mode) --- 1  harmonics/open strings: ['D 12 (harm)']
+1st D#, Harmonic Minor (2nd Mode) --- 1  harmonics/open strings: ['E 12 (harm)']
+1st D#, Harmonic Minor (3rd Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+1st D#, Harmonic Minor (4th Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)']
+1st D#, Harmonic Minor (5th Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)']
+1st D#, Harmonic Minor (6th Mode) --- 2  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)']
+1st D#, Harmonic Minor (7th Mode) --- 4  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)']
+2nd E,  Ionian     ------------------ 4  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)']
+2nd E,  Dorian     ------------------ 6  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Phrygian   ------------------ 6  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Lydian     ------------------ 3  harmonics/open strings: ['E 12 (harm)', 'E 7  (harm)', 'E 5  (harm)']
+2nd E,  Mixolydian ------------------ 5  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Aeolian    ------------------ 6  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Locrian    ------------------ 5  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Melodic Minor  (1st Mode) --- 5  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)']
+2nd E,  Melodic Minor  (2nd Mode) --- 5  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)', 'E 5  (harm)']
+2nd E,  Melodic Minor  (4th Mode) --- 5  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Melodic Minor  (5th Mode) --- 5  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'E 7  (harm)', 'E 5  (harm)']
+2nd E,  Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'E 5  (harm)']
+2nd E,  Harmonic Minor (1st Mode) --- 5  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)']
+2nd E,  Harmonic Minor (2nd Mode) --- 6  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Harmonic Minor (3rd Mode) --- 2  harmonics/open strings: ['E 12 (harm)', 'E 5  (harm)']
+2nd E,  Harmonic Minor (4th Mode) --- 4  harmonics/open strings: ['E 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Harmonic Minor (5th Mode) --- 5  harmonics/open strings: ['E 12 (harm)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Harmonic Minor (6th Mode) --- 5  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd E,  Harmonic Minor (7th Mode) --- 4  harmonics/open strings: ['E 12 (harm)', 'G 0  (open)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F,  Ionian     ------------------ 4  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F,  Dorian     ------------------ 2  harmonics/open strings: ['G 0  (open)', 'D 12 (harm)']
+2nd F,  Phrygian   ------------------ 0  harmonics/open strings: []
+2nd F,  Lydian     ------------------ 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F,  Mixolydian ------------------ 3  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)']
+2nd F,  Aeolian    ------------------ 1  harmonics/open strings: ['G 0  (open)']
+2nd F,  Locrian    ------------------ 1  harmonics/open strings: ['E 7  (harm)']
+2nd F,  Melodic Minor  (1st Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'E 5  (harm)']
+2nd F,  Melodic Minor  (2nd Mode) --- 2  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)']
+2nd F,  Melodic Minor  (3rd Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F,  Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)', 'D 12 (harm)']
+2nd F,  Melodic Minor  (5th Mode) --- 1  harmonics/open strings: ['A 12 (harm)']
+2nd F,  Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F,  Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+2nd F,  Harmonic Minor (1st Mode) --- 3  harmonics/open strings: ['G 0  (open)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F,  Harmonic Minor (2nd Mode) --- 1  harmonics/open strings: ['D 12 (harm)']
+2nd F,  Harmonic Minor (3rd Mode) --- 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F,  Harmonic Minor (4th Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+2nd F,  Harmonic Minor (5th Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)']
+2nd F,  Harmonic Minor (6th Mode) --- 2  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)']
+2nd F,  Harmonic Minor (7th Mode) --- 2  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)']
+2nd F#, Ionian     ------------------ 1  harmonics/open strings: ['E 7  (harm)']
+2nd F#, Dorian     ------------------ 3  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)']
+2nd F#, Phrygian   ------------------ 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F#, Lydian     ------------------ 0  harmonics/open strings: []
+2nd F#, Mixolydian ------------------ 2  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)']
+2nd F#, Aeolian    ------------------ 4  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F#, Locrian    ------------------ 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F#, Melodic Minor  (1st Mode) --- 3  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+2nd F#, Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)']
+2nd F#, Melodic Minor  (3rd Mode) --- 2  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)']
+2nd F#, Melodic Minor  (4th Mode) --- 2  harmonics/open strings: ['A 12 (harm)', 'E 5  (harm)']
+2nd F#, Melodic Minor  (5th Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F#, Melodic Minor  (6th Mode) --- 1  harmonics/open strings: ['A 12 (harm)']
+2nd F#, Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)']
+2nd F#, Harmonic Minor (1st Mode) --- 2  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)']
+2nd F#, Harmonic Minor (2nd Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)']
+2nd F#, Harmonic Minor (3rd Mode) --- 1  harmonics/open strings: ['D 12 (harm)']
+2nd F#, Harmonic Minor (4th Mode) --- 1  harmonics/open strings: ['E 5  (harm)']
+2nd F#, Harmonic Minor (5th Mode) --- 3  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F#, Harmonic Minor (6th Mode) --- 4  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd F#, Harmonic Minor (7th Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd G,  Ionian     ------------------ 6  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Dorian     ------------------ 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Phrygian   ------------------ 3  harmonics/open strings: ['G 0  (open)', 'D 12 (harm)', 'G 12 (harm)']
+2nd G,  Lydian     ------------------ 6  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Mixolydian ------------------ 6  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Aeolian    ------------------ 4  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'G 12 (harm)']
+2nd G,  Locrian    ------------------ 2  harmonics/open strings: ['G 0  (open)', 'G 12 (harm)']
+2nd G,  Melodic Minor  (1st Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'G 12 (harm)']
+2nd G,  Melodic Minor  (2nd Mode) --- 3  harmonics/open strings: ['G 0  (open)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Melodic Minor  (3rd Mode) --- 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Melodic Minor  (4th Mode) --- 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Melodic Minor  (5th Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)', 'D 12 (harm)', 'G 12 (harm)']
+2nd G,  Melodic Minor  (6th Mode) --- 5  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Harmonic Minor (1st Mode) --- 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Harmonic Minor (2nd Mode) --- 4  harmonics/open strings: ['G 0  (open)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Harmonic Minor (3rd Mode) --- 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Harmonic Minor (4th Mode) --- 6  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G,  Harmonic Minor (5th Mode) --- 5  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'G 12 (harm)']
+2nd G,  Harmonic Minor (6th Mode) --- 3  harmonics/open strings: ['G 0  (open)', 'A 12 (harm)', 'G 12 (harm)']
+2nd G,  Harmonic Minor (7th Mode) --- 3  harmonics/open strings: ['G 0  (open)', 'E 7  (harm)', 'G 12 (harm)']
+2nd G#, Ionian     ------------------ 1  harmonics/open strings: ['G 12 (harm)']
+2nd G#, Dorian     ------------------ 1  harmonics/open strings: ['E 7  (harm)']
+2nd G#, Phrygian   ------------------ 3  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)']
+2nd G#, Lydian     ------------------ 2  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)']
+2nd G#, Mixolydian ------------------ 0  harmonics/open strings: []
+2nd G#, Aeolian    ------------------ 2  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)']
+2nd G#, Locrian    ------------------ 4  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd G#, Melodic Minor  (1st Mode) --- 3  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G#, Melodic Minor  (2nd Mode) --- 3  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)']
+2nd G#, Melodic Minor  (3rd Mode) --- 2  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)']
+2nd G#, Melodic Minor  (4th Mode) --- 2  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)']
+2nd G#, Melodic Minor  (5th Mode) --- 2  harmonics/open strings: ['A 12 (harm)', 'E 5  (harm)']
+2nd G#, Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'G 12 (harm)']
+2nd G#, Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd G#, Harmonic Minor (1st Mode) --- 2  harmonics/open strings: ['E 7  (harm)', 'G 12 (harm)']
+2nd G#, Harmonic Minor (2nd Mode) --- 2  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)']
+2nd G#, Harmonic Minor (3rd Mode) --- 3  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd G#, Harmonic Minor (4th Mode) --- 1  harmonics/open strings: ['D 12 (harm)']
+2nd G#, Harmonic Minor (5th Mode) --- 1  harmonics/open strings: ['E 5  (harm)']
+2nd G#, Harmonic Minor (6th Mode) --- 3  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd G#, Harmonic Minor (7th Mode) --- 4  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd A,  Ionian     ------------------ 5  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)']
+2nd A,  Dorian     ------------------ 6  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Phrygian   ------------------ 5  harmonics/open strings: ['A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Lydian     ------------------ 4  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)', 'A 5  (harm)']
+2nd A,  Mixolydian ------------------ 6  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Aeolian    ------------------ 6  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Locrian    ------------------ 4  harmonics/open strings: ['A 12 (harm)', 'D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Melodic Minor  (1st Mode) --- 5  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)']
+2nd A,  Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['A 12 (harm)', 'D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Melodic Minor  (3rd Mode) --- 4  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'A 5  (harm)']
+2nd A,  Melodic Minor  (4th Mode) --- 5  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Melodic Minor  (5th Mode) --- 5  harmonics/open strings: ['A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['A 12 (harm)', 'E 5  (harm)', 'A 5  (harm)']
+2nd A,  Melodic Minor  (7th Mode) --- 2  harmonics/open strings: ['A 12 (harm)', 'A 5  (harm)']
+2nd A,  Harmonic Minor (1st Mode) --- 5  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)']
+2nd A,  Harmonic Minor (2nd Mode) --- 5  harmonics/open strings: ['A 12 (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Harmonic Minor (3rd Mode) --- 3  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'A 5  (harm)']
+2nd A,  Harmonic Minor (4th Mode) --- 5  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Harmonic Minor (5th Mode) --- 6  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Harmonic Minor (6th Mode) --- 5  harmonics/open strings: ['A 12 (harm)', 'E 7  (harm)', 'D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A,  Harmonic Minor (7th Mode) --- 3  harmonics/open strings: ['A 12 (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A#, Ionian     ------------------ 3  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A#, Dorian     ------------------ 1  harmonics/open strings: ['G 12 (harm)']
+2nd A#, Phrygian   ------------------ 1  harmonics/open strings: ['E 7  (harm)']
+2nd A#, Lydian     ------------------ 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A#, Mixolydian ------------------ 2  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)']
+2nd A#, Aeolian    ------------------ 0  harmonics/open strings: []
+2nd A#, Locrian    ------------------ 2  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)']
+2nd A#, Melodic Minor  (1st Mode) --- 1  harmonics/open strings: ['A 5  (harm)']
+2nd A#, Melodic Minor  (2nd Mode) --- 3  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd A#, Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A#, Melodic Minor  (4th Mode) --- 2  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)']
+2nd A#, Melodic Minor  (5th Mode) --- 2  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)']
+2nd A#, Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A#, Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd A#, Harmonic Minor (1st Mode) --- 2  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)']
+2nd A#, Harmonic Minor (2nd Mode) --- 2  harmonics/open strings: ['E 7  (harm)', 'G 12 (harm)']
+2nd A#, Harmonic Minor (3rd Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd A#, Harmonic Minor (4th Mode) --- 3  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd A#, Harmonic Minor (5th Mode) --- 1  harmonics/open strings: ['D 12 (harm)']
+2nd A#, Harmonic Minor (6th Mode) --- 1  harmonics/open strings: ['E 5  (harm)']
+2nd A#, Harmonic Minor (7th Mode) --- 3  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)']
+2nd B,  Ionian     ------------------ 3  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)', 'B 12 (harm)']
+2nd B,  Dorian     ------------------ 5  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Phrygian   ------------------ 6  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Lydian     ------------------ 2  harmonics/open strings: ['E 7  (harm)', 'B 12 (harm)']
+2nd B,  Mixolydian ------------------ 4  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Aeolian    ------------------ 6  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Locrian    ------------------ 6  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Melodic Minor  (1st Mode) --- 5  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'B 12 (harm)']
+2nd B,  Melodic Minor  (2nd Mode) --- 5  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Melodic Minor  (3rd Mode) --- 4  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)', 'B 12 (harm)']
+2nd B,  Melodic Minor  (4th Mode) --- 4  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Melodic Minor  (5th Mode) --- 5  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'B 12 (harm)']
+2nd B,  Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'G 12 (harm)', 'B 12 (harm)']
+2nd B,  Harmonic Minor (1st Mode) --- 4  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'B 12 (harm)']
+2nd B,  Harmonic Minor (2nd Mode) --- 5  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Harmonic Minor (3rd Mode) --- 3  harmonics/open strings: ['E 7  (harm)', 'G 12 (harm)', 'B 12 (harm)']
+2nd B,  Harmonic Minor (4th Mode) --- 3  harmonics/open strings: ['E 7  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Harmonic Minor (5th Mode) --- 5  harmonics/open strings: ['E 7  (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Harmonic Minor (6th Mode) --- 6  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd B,  Harmonic Minor (7th Mode) --- 5  harmonics/open strings: ['E 7  (harm)', 'D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C,  Ionian     ------------------ 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C,  Dorian     ------------------ 3  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd C,  Phrygian   ------------------ 1  harmonics/open strings: ['G 12 (harm)']
+2nd C,  Lydian     ------------------ 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C,  Mixolydian ------------------ 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd C,  Aeolian    ------------------ 2  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)']
+2nd C,  Locrian    ------------------ 0  harmonics/open strings: []
+2nd C,  Melodic Minor  (1st Mode) --- 3  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'B 12 (harm)']
+2nd C,  Melodic Minor  (2nd Mode) --- 1  harmonics/open strings: ['A 5  (harm)']
+2nd C,  Melodic Minor  (3rd Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C,  Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd C,  Melodic Minor  (5th Mode) --- 2  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)']
+2nd C,  Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C,  Melodic Minor  (7th Mode) --- 2  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)']
+2nd C,  Harmonic Minor (1st Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C,  Harmonic Minor (2nd Mode) --- 2  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)']
+2nd C,  Harmonic Minor (3rd Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C,  Harmonic Minor (4th Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd C,  Harmonic Minor (5th Mode) --- 3  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)']
+2nd C,  Harmonic Minor (6th Mode) --- 1  harmonics/open strings: ['D 12 (harm)']
+2nd C,  Harmonic Minor (7th Mode) --- 1  harmonics/open strings: ['E 5  (harm)']
+2nd C#, Ionian     ------------------ 0  harmonics/open strings: []
+2nd C#, Dorian     ------------------ 2  harmonics/open strings: ['E 5  (harm)', 'B 12 (harm)']
+2nd C#, Phrygian   ------------------ 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C#, Lydian     ------------------ 1  harmonics/open strings: ['G 12 (harm)']
+2nd C#, Mixolydian ------------------ 1  harmonics/open strings: ['B 12 (harm)']
+2nd C#, Aeolian    ------------------ 3  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C#, Locrian    ------------------ 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C#, Melodic Minor  (1st Mode) --- 2  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)']
+2nd C#, Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'B 12 (harm)']
+2nd C#, Melodic Minor  (3rd Mode) --- 1  harmonics/open strings: ['A 5  (harm)']
+2nd C#, Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'B 12 (harm)']
+2nd C#, Melodic Minor  (5th Mode) --- 3  harmonics/open strings: ['D 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C#, Melodic Minor  (6th Mode) --- 2  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)']
+2nd C#, Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)']
+2nd C#, Harmonic Minor (1st Mode) --- 1  harmonics/open strings: ['E 5  (harm)']
+2nd C#, Harmonic Minor (2nd Mode) --- 3  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'B 12 (harm)']
+2nd C#, Harmonic Minor (3rd Mode) --- 2  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)']
+2nd C#, Harmonic Minor (4th Mode) --- 2  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)']
+2nd C#, Harmonic Minor (5th Mode) --- 2  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)']
+2nd C#, Harmonic Minor (6th Mode) --- 4  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd C#, Harmonic Minor (7th Mode) --- 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd D,  Ionian     ------------------ 6  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Dorian     ------------------ 6  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Phrygian   ------------------ 4  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)']
+2nd D,  Lydian     ------------------ 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Mixolydian ------------------ 6  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Aeolian    ------------------ 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)']
+2nd D,  Locrian    ------------------ 3  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'D 5  (harm)']
+2nd D,  Melodic Minor  (1st Mode) --- 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)']
+2nd D,  Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Melodic Minor  (3rd Mode) --- 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Melodic Minor  (4th Mode) --- 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Melodic Minor  (5th Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)']
+2nd D,  Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['D 12 (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Harmonic Minor (1st Mode) --- 6  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Harmonic Minor (2nd Mode) --- 5  harmonics/open strings: ['D 12 (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Harmonic Minor (3rd Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Harmonic Minor (4th Mode) --- 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D,  Harmonic Minor (5th Mode) --- 5  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)']
+2nd D,  Harmonic Minor (6th Mode) --- 4  harmonics/open strings: ['D 12 (harm)', 'E 5  (harm)', 'G 12 (harm)', 'D 5  (harm)']
+2nd D,  Harmonic Minor (7th Mode) --- 2  harmonics/open strings: ['D 12 (harm)', 'D 5  (harm)']
+2nd D#, Ionian     ------------------ 2  harmonics/open strings: ['G 12 (harm)', 'D 5  (harm)']
+2nd D#, Dorian     ------------------ 0  harmonics/open strings: []
+2nd D#, Phrygian   ------------------ 2  harmonics/open strings: ['E 5  (harm)', 'B 12 (harm)']
+2nd D#, Lydian     ------------------ 3  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)']
+2nd D#, Mixolydian ------------------ 1  harmonics/open strings: ['G 12 (harm)']
+2nd D#, Aeolian    ------------------ 1  harmonics/open strings: ['B 12 (harm)']
+2nd D#, Locrian    ------------------ 3  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd D#, Melodic Minor  (1st Mode) --- 2  harmonics/open strings: ['B 12 (harm)', 'D 5  (harm)']
+2nd D#, Melodic Minor  (2nd Mode) --- 2  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)']
+2nd D#, Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D#, Melodic Minor  (4th Mode) --- 1  harmonics/open strings: ['A 5  (harm)']
+2nd D#, Melodic Minor  (5th Mode) --- 3  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'B 12 (harm)']
+2nd D#, Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)']
+2nd D#, Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+2nd D#, Harmonic Minor (1st Mode) --- 1  harmonics/open strings: ['D 5  (harm)']
+2nd D#, Harmonic Minor (2nd Mode) --- 1  harmonics/open strings: ['E 5  (harm)']
+2nd D#, Harmonic Minor (3rd Mode) --- 4  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+2nd D#, Harmonic Minor (4th Mode) --- 2  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)']
+2nd D#, Harmonic Minor (5th Mode) --- 2  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)']
+2nd D#, Harmonic Minor (6th Mode) --- 2  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)']
+2nd D#, Harmonic Minor (7th Mode) --- 4  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)']
+3rd E,  Ionian     ------------------ 4  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)']
+3rd E,  Dorian     ------------------ 6  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Phrygian   ------------------ 6  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Lydian     ------------------ 3  harmonics/open strings: ['E 5  (harm)', 'B 12 (harm)', 'e 12 (harm)']
+3rd E,  Mixolydian ------------------ 5  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Aeolian    ------------------ 6  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Locrian    ------------------ 5  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Melodic Minor  (1st Mode) --- 5  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)']
+3rd E,  Melodic Minor  (2nd Mode) --- 5  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)', 'e 12 (harm)']
+3rd E,  Melodic Minor  (4th Mode) --- 5  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Melodic Minor  (5th Mode) --- 5  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'B 12 (harm)', 'e 12 (harm)']
+3rd E,  Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'e 12 (harm)']
+3rd E,  Harmonic Minor (1st Mode) --- 5  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)']
+3rd E,  Harmonic Minor (2nd Mode) --- 6  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Harmonic Minor (3rd Mode) --- 2  harmonics/open strings: ['E 5  (harm)', 'e 12 (harm)']
+3rd E,  Harmonic Minor (4th Mode) --- 4  harmonics/open strings: ['E 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Harmonic Minor (5th Mode) --- 5  harmonics/open strings: ['E 5  (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Harmonic Minor (6th Mode) --- 5  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd E,  Harmonic Minor (7th Mode) --- 4  harmonics/open strings: ['E 5  (harm)', 'G 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd F,  Ionian     ------------------ 4  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd F,  Dorian     ------------------ 2  harmonics/open strings: ['G 12 (harm)', 'D 5  (harm)']
+3rd F,  Phrygian   ------------------ 0  harmonics/open strings: []
+3rd F,  Lydian     ------------------ 5  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd F,  Mixolydian ------------------ 3  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)']
+3rd F,  Aeolian    ------------------ 1  harmonics/open strings: ['G 12 (harm)']
+3rd F,  Locrian    ------------------ 1  harmonics/open strings: ['B 12 (harm)']
+3rd F,  Melodic Minor  (1st Mode) --- 2  harmonics/open strings: ['G 12 (harm)', 'e 12 (harm)']
+3rd F,  Melodic Minor  (2nd Mode) --- 2  harmonics/open strings: ['B 12 (harm)', 'D 5  (harm)']
+3rd F,  Melodic Minor  (3rd Mode) --- 4  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd F,  Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)', 'D 5  (harm)']
+3rd F,  Melodic Minor  (5th Mode) --- 1  harmonics/open strings: ['A 5  (harm)']
+3rd F,  Melodic Minor  (6th Mode) --- 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd F,  Melodic Minor  (7th Mode) --- 3  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+3rd F,  Harmonic Minor (1st Mode) --- 3  harmonics/open strings: ['G 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd F,  Harmonic Minor (2nd Mode) --- 1  harmonics/open strings: ['D 5  (harm)']
+3rd F,  Harmonic Minor (3rd Mode) --- 5  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd F,  Harmonic Minor (4th Mode) --- 4  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)']
+3rd F,  Harmonic Minor (5th Mode) --- 2  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)']
+3rd F,  Harmonic Minor (6th Mode) --- 2  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)']
+3rd F,  Harmonic Minor (7th Mode) --- 2  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)']
+3rd F#, Ionian     ------------------ 2  harmonics/open strings: ['B 12 (harm)', 'B 7  (harm)']
+3rd F#, Dorian     ------------------ 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Phrygian   ------------------ 6  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Lydian     ------------------ 1  harmonics/open strings: ['B 7  (harm)']
+3rd F#, Mixolydian ------------------ 3  harmonics/open strings: ['B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Aeolian    ------------------ 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Locrian    ------------------ 6  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Melodic Minor  (1st Mode) --- 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'B 7  (harm)']
+3rd F#, Melodic Minor  (2nd Mode) --- 5  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Melodic Minor  (3rd Mode) --- 3  harmonics/open strings: ['B 12 (harm)', 'D 5  (harm)', 'B 7  (harm)']
+3rd F#, Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['A 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Melodic Minor  (5th Mode) --- 5  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Melodic Minor  (6th Mode) --- 2  harmonics/open strings: ['A 5  (harm)', 'B 7  (harm)']
+3rd F#, Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'B 7  (harm)']
+3rd F#, Harmonic Minor (1st Mode) --- 3  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'B 7  (harm)']
+3rd F#, Harmonic Minor (2nd Mode) --- 5  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Harmonic Minor (3rd Mode) --- 2  harmonics/open strings: ['D 5  (harm)', 'B 7  (harm)']
+3rd F#, Harmonic Minor (4th Mode) --- 2  harmonics/open strings: ['e 12 (harm)', 'B 7  (harm)']
+3rd F#, Harmonic Minor (5th Mode) --- 4  harmonics/open strings: ['B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Harmonic Minor (6th Mode) --- 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd F#, Harmonic Minor (7th Mode) --- 5  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd G,  Ionian     ------------------ 7  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd G,  Dorian     ------------------ 5  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd G,  Phrygian   ------------------ 3  harmonics/open strings: ['G 12 (harm)', 'D 5  (harm)', 'G 5  (harm)']
+3rd G,  Lydian     ------------------ 7  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd G,  Mixolydian ------------------ 6  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd G,  Aeolian    ------------------ 4  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'G 5  (harm)']
+3rd G,  Locrian    ------------------ 2  harmonics/open strings: ['G 12 (harm)', 'G 5  (harm)']
+3rd G,  Melodic Minor  (1st Mode) --- 5  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd G,  Melodic Minor  (2nd Mode) --- 3  harmonics/open strings: ['G 12 (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd G,  Melodic Minor  (3rd Mode) --- 6  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd G,  Melodic Minor  (4th Mode) --- 5  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd G,  Melodic Minor  (5th Mode) --- 4  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)', 'D 5  (harm)', 'G 5  (harm)']
+3rd G,  Melodic Minor  (6th Mode) --- 6  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd G,  Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd G,  Harmonic Minor (1st Mode) --- 6  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd G,  Harmonic Minor (2nd Mode) --- 4  harmonics/open strings: ['G 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd G,  Harmonic Minor (3rd Mode) --- 6  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd G,  Harmonic Minor (4th Mode) --- 6  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd G,  Harmonic Minor (5th Mode) --- 5  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'G 5  (harm)']
+3rd G,  Harmonic Minor (6th Mode) --- 3  harmonics/open strings: ['G 12 (harm)', 'A 5  (harm)', 'G 5  (harm)']
+3rd G,  Harmonic Minor (7th Mode) --- 3  harmonics/open strings: ['G 12 (harm)', 'B 12 (harm)', 'G 5  (harm)']
+3rd G#, Ionian     ------------------ 1  harmonics/open strings: ['G 5  (harm)']
+3rd G#, Dorian     ------------------ 2  harmonics/open strings: ['B 12 (harm)', 'B 7  (harm)']
+3rd G#, Phrygian   ------------------ 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd G#, Lydian     ------------------ 2  harmonics/open strings: ['D 5  (harm)', 'G 5  (harm)']
+3rd G#, Mixolydian ------------------ 1  harmonics/open strings: ['B 7  (harm)']
+3rd G#, Aeolian    ------------------ 3  harmonics/open strings: ['B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd G#, Locrian    ------------------ 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd G#, Melodic Minor  (1st Mode) --- 3  harmonics/open strings: ['B 12 (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd G#, Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'B 7  (harm)']
+3rd G#, Melodic Minor  (3rd Mode) --- 2  harmonics/open strings: ['e 12 (harm)', 'G 5  (harm)']
+3rd G#, Melodic Minor  (4th Mode) --- 3  harmonics/open strings: ['B 12 (harm)', 'D 5  (harm)', 'B 7  (harm)']
+3rd G#, Melodic Minor  (5th Mode) --- 3  harmonics/open strings: ['A 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd G#, Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['B 12 (harm)', 'D 5  (harm)', 'G 5  (harm)']
+3rd G#, Melodic Minor  (7th Mode) --- 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd G#, Harmonic Minor (1st Mode) --- 2  harmonics/open strings: ['B 12 (harm)', 'G 5  (harm)']
+3rd G#, Harmonic Minor (2nd Mode) --- 3  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'B 7  (harm)']
+3rd G#, Harmonic Minor (3rd Mode) --- 3  harmonics/open strings: ['D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd G#, Harmonic Minor (4th Mode) --- 2  harmonics/open strings: ['D 5  (harm)', 'B 7  (harm)']
+3rd G#, Harmonic Minor (5th Mode) --- 2  harmonics/open strings: ['e 12 (harm)', 'B 7  (harm)']
+3rd G#, Harmonic Minor (6th Mode) --- 4  harmonics/open strings: ['B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd G#, Harmonic Minor (7th Mode) --- 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd A,  Ionian     ------------------ 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd A,  Dorian     ------------------ 6  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd A,  Phrygian   ------------------ 4  harmonics/open strings: ['A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd A,  Lydian     ------------------ 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd A,  Mixolydian ------------------ 6  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd A,  Aeolian    ------------------ 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd A,  Locrian    ------------------ 3  harmonics/open strings: ['A 5  (harm)', 'D 5  (harm)', 'G 5  (harm)']
+3rd A,  Melodic Minor  (1st Mode) --- 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)']
+3rd A,  Melodic Minor  (2nd Mode) --- 4  harmonics/open strings: ['A 5  (harm)', 'D 5  (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd A,  Melodic Minor  (3rd Mode) --- 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'B 7  (harm)']
+3rd A,  Melodic Minor  (4th Mode) --- 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd A,  Melodic Minor  (5th Mode) --- 4  harmonics/open strings: ['A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd A,  Melodic Minor  (6th Mode) --- 3  harmonics/open strings: ['A 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd A,  Melodic Minor  (7th Mode) --- 2  harmonics/open strings: ['A 5  (harm)', 'B 7  (harm)']
+3rd A,  Harmonic Minor (1st Mode) --- 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)']
+3rd A,  Harmonic Minor (2nd Mode) --- 5  harmonics/open strings: ['A 5  (harm)', 'D 5  (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd A,  Harmonic Minor (3rd Mode) --- 3  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'B 7  (harm)']
+3rd A,  Harmonic Minor (4th Mode) --- 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'e 12 (harm)', 'B 7  (harm)', 'G 5  (harm)']
+3rd A,  Harmonic Minor (5th Mode) --- 5  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'e 12 (harm)', 'G 5  (harm)']
+3rd A,  Harmonic Minor (6th Mode) --- 4  harmonics/open strings: ['A 5  (harm)', 'B 12 (harm)', 'D 5  (harm)', 'G 5  (harm)']
+3rd A,  Harmonic Minor (7th Mode) --- 2  harmonics/open strings: ['A 5  (harm)', 'G 5  (harm)']

@@ -2,17 +2,27 @@ import classes as classes
 import math
 
 scales = {
-    "Major": [0, 2, 4, 5, 7, 9, 11],
-    "Melodic Minor": [0, 2, 3, 5, 7, 8, 11],
-    "Harmonic Minor": [0, 2, 3, 5, 7, 9, 11],
+    "Major": [0, 2, 4, 5, 7, 9, 11, 12],
+    "Melodic Minor": [0, 2, 3, 5, 7, 8, 11, 12],
+    "Harmonic Minor": [0, 2, 3, 5, 7, 9, 11, 12],
+}
+
+majModes = {
+    1: "Ionian    ",
+    2: "Dorian    ",
+    3: "Phrygian  ",
+    4: "Lydian    ",
+    5: "Mixolydian",
+    6: "Aeolian   ",
+    7: "Locrian   ",
 }
 
 
 def getModes(scale):
     modes = []
-    for i in range(len(scale)):
+    for i in range(len(scale) - 1):
         newRoot = scale[i]
-        newScale = [(x - newRoot) % 12 for x in scale]
+        newScale = [(x - newRoot) % 12 for x in scale[:-1]] + [12]
         newScale.sort()
         modes.append((i + 1, newScale))
     return modes
@@ -35,9 +45,10 @@ def analyzeFromRoot(guitar, root, numOctaves=1, fname="singleOctave.txt"):
     for scaleName, scale in scales.items():
         modes = getModes(scale)
         for mode in modes:
+            harms = []
             curMode = mode[1]
             for i in range(1, numOctaves):
-                curMode += [x + 12 * i for x in mode[1]]
+                curMode = curMode[:-1] + [x + 12 * i for x in mode[1]]
             numHarms = 0
             numOpen = 0
             numHarmOrOpen = 0
@@ -48,13 +59,24 @@ def analyzeFromRoot(guitar, root, numOctaves=1, fname="singleOctave.txt"):
                 numOpen += int(hasOpen)
                 numHarms += int(hasHarmonic)
                 numHarmOrOpen += int(hasOpen or hasHarmonic)
+                for option in options:
+                    if ("harm" in option.method) or ("open" in option.method):
+                        harms.append(option.__repr__())
+                        break
             with open(fname, "a") as f:
-                modeStr = addOrdinal(mode[0])
-                scaleStr = rootStr
                 rootName = (classes.pitchClasses[root % 12] + ",").ljust(4, " ")
-                scaleStr += rootName + scaleName.ljust(14, " ")
-                scaleStr += " (" + modeStr + "Mode) "
-                scaleStr += "--- {} harmonics/open strings".format(numHarmOrOpen) + "\n"
+                if scaleName == "Major":
+                    modeStr = (rootName + majModes[mode[0]] + " ").ljust(30, "-")
+                else:
+                    modeStr = " (" + addOrdinal(mode[0]) + "Mode) "
+                    modeStr = rootName + scaleName.ljust(14, " ") + modeStr
+
+                scaleStr = rootStr
+                scaleStr += modeStr
+                scaleStr += (
+                    "--- " + str(numHarmOrOpen).ljust(3, " ") + "harmonics/open strings"
+                )
+                scaleStr += ": " + str(harms) + "\n"
                 f.write(scaleStr)
 
 

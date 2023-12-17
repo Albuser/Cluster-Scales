@@ -51,8 +51,10 @@ class String:
 
     def __repr__(self):
         if self.baseNote == 0:
-            return "Low E "
-        return pitchClasses[self.baseNote % 12]
+            return "E "
+        if self.baseNote == 24:
+            return "e "
+        return pitchClasses[self.baseNote % 12].ljust(2, " ")
 
 
 class Note:
